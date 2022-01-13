@@ -1,0 +1,40 @@
+bohdan@orangepizero:~/myscripts/parser$ ./parser.sh apache_logs.txt
+
+--The most of requests were from IP:
+        COUNT   ADDRESS
+        30      207.46.13.48
+--The most requested webpage
+        COUNT   WEBPAGE
+        8       /sitemap1.xml.gz
+--Error codes:
+        COUNT   CODE
+      	3 	/error404
+--Most requests were made at
+        02:26:55
+--Searchbots
+go.mail.ru
+Address: 217.69.139.51
+Address: 217.69.139.53
+Address: 217.69.139.52
+
+www.bing.com
+Address: 13.107.21.200
+Address: 204.79.197.200
+
+www.google.com
+Address: 172.217.16.4
+
+www.xovibot.net
+Address: 136.243.21.19
+
+yandex.com
+Address: 5.255.255.80
+Address: 77.88.55.80
+Address: 77.88.55.77
+Address: 5.255.255.88
+
+
+bohdan@orangepizero:~/myscripts/parser$ ./parser.sh
+
+Enter the filename of Apache log
+

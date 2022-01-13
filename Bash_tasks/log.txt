@@ -1,0 +1,260 @@
+
+ Sun Jan  2 19:57:46 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads: picture1.jpeg
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 19:59:04 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads: picture1.jpeg
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 19:59:10 UTC 2022
+Files have been changed
+
+
+
+ Sun Jan  2 20:00:46 UTC 2022
+Files have been changed
+
+
+
+ Sun Jan  2 20:01:33 UTC 2022
+Files have been changed
+
+
+
+ Sun Jan  2 20:02:10 UTC 2022
+Files have been changed
+
+
+
+ Sun Jan  2 20:02:54 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads: picture1.jpeg
+
+Sun Jan  2 20:04:58 UTC 2022
+Files are the same
+
+
+ Sun Jan  2 20:05:15 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads: video1.3gp
+
+Sun Jan  2 20:29:34 UTC 2022
+Files are the same
+
+
+ Sun Jan  2 20:30:08 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 20:30:43 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup/: picture1.jpeg
+
+
+ Sun Jan  2 20:33:51 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup/: picture1.jpeg
+
+
+ Sun Jan  2 20:47:18 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup/: Downloads
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 20:47:21 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup/: Downloads
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 20:47:22 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup/: Downloads
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 20:47:52 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 20:54:16 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 20:54:53 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup/: Downloads
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 20:55:49 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup/: Downloads
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 20:56:20 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup/: Downloads
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 20:57:22 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup/: Downloads
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 20:58:25 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup/: Downloads
+Only in /home/bohdan/Downloads: video1.3gp
+
+
+ Sun Jan  2 20:59:47 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup/: Downloads
+Only in /home/bohdan/Downloads: video1.3gp
+
+Mon Jan  3 08:04:36 UTC 2022
+Files are the same
+
+
+ Mon Jan  3 08:05:03 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads/: img1.txt
+
+
+ Mon Jan  3 08:06:18 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup: img1.txt
+
+
+ Mon Jan  3 08:07:14 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads/: hello.txt
+
+
+ Mon Jan  3 08:07:41 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads/: testdir
+
+Mon Jan  3 08:07:43 UTC 2022
+Files are the same
+
+Mon Jan  3 08:09:49 UTC 2022
+Files are the same
+
+Mon Jan  3 08:10:42 UTC 2022
+Files are the same
+
+
+ Mon Jan  3 08:11:42 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads/testdir: file1.txt
+
+Mon Jan  3 08:11:44 UTC 2022
+Files are the same
+
+
+ Mon Jan  3 08:12:11 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads/testdir: file1.txt
+
+
+ Mon Jan  3 08:12:50 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup: testdir
+
+Mon Jan  3 08:14:59 UTC 2022
+Files are the same
+
+
+ Mon Jan  3 08:15:34 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads/: testdir
+
+sending incremental file list
+./
+testdir/
+testdir/1213.txt
+
+sent 225 bytes  received 46 bytes  542.00 bytes/sec
+total size is 0  speedup is 0.00
+
+ Mon Jan  3 08:17:24 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup: testdir
+
+sending incremental file list
+deleting testdir/1213.txt
+deleting testdir/
+./
+
+sent 112 bytes  received 47 bytes  318.00 bytes/sec
+total size is 0  speedup is 0.00
+Mon Jan  3 08:19:01 UTC 2022
+Files are the same
+
+Mon Jan  3 08:23:19 UTC 2022
+Files are the same
+
+Mon Jan  3 08:24:15 UTC 2022
+Files are the same
+
+Mon Jan  3 08:26:39 UTC 2022
+Files are the same
+
+Mon Jan  3 08:26:44 UTC 2022
+Files are the same
+
+Mon Jan  3 08:32:09 UTC 2022
+Files are the same
+
+Mon Jan  3 08:32:18 UTC 2022
+Files are the same
+
+Mon Jan  3 08:32:50 UTC 2022
+Files are the same
+
+Mon Jan  3 08:32:54 UTC 2022
+Files are the same
+
+
+ Mon Jan  3 08:33:54 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads/: testdir
+
+sending incremental file list
+./
+testdir/
+testdir/testdir2/
+testdir/testdir2/73421673421.inf
+
+sent 261 bytes  received 50 bytes  622.00 bytes/sec
+total size is 0  speedup is 0.00
+
+ Mon Jan  3 08:34:45 UTC 2022
+Files have been changed
+Only in /home/bohdan/Downloads_backup/: testdir
+
+sending incremental file list
+deleting testdir/testdir2/73421673421.inf
+deleting testdir/testdir2/
+deleting testdir/
+./
+
+sent 112 bytes  received 84 bytes  392.00 bytes/sec
+total size is 0  speedup is 0.00
+Thu Jan 13 19:30:51 UTC 2022
+Files are the same
+

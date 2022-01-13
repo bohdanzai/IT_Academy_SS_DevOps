@@ -1,0 +1,14 @@
+bohdan@orangepizero:~/myscripts/keys_check$ ./scr_with_keys.sh --incorrect8734y
+Incorrect option --incorrect8734y
+exit
+bohdan@orangepizero:~/myscripts/keys_check$
+bohdan@orangepizero:~/myscripts/keys_check$ ./scr_with_keys.sh --all --target
+        scanning network
+192.168.0.1
+192.168.0.101
+        open tcp ports
+Port
+61374
+61410
+63083
+55445
